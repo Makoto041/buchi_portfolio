@@ -33,6 +33,7 @@ if ( lightning_is_page_header_and_breadcrumb() ){
 <div class="about_img">
 	<img src="<?php echo get_stylesheet_directory_uri(); ?>/img/about.jpg" alt="写真">
 </div>
+
 <div class="row">
 <div class="<?php lightning_the_class_name( 'mainSection' ); ?>" id="main" role="main">
 <?php do_action( 'lightning_mainSection_prepend' ); ?>

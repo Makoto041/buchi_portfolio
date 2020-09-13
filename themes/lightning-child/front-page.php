@@ -38,7 +38,7 @@
   </section>
   <section id="works" class="cf">
     <h2 class="title">Works</h2>
-    <?php echo do_shortcode( '[PFG id=20]' ); ?>
+    <?php echo do_shortcode( '[PFG id=34]' ); ?>
     <!-- <ul class="workList">
       <li>
         <p class="photo">
