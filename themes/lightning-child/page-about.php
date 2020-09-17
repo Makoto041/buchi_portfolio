@@ -46,3 +46,4 @@ if (lightning_is_page_header_and_breadcrumb()) {
 	</div><!-- [ /.siteContent ] -->
 </div><!-- [ /.about ] -->
 <?php get_footer(); ?>
+
